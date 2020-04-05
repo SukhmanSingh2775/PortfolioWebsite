@@ -1,0 +1,7 @@
+#dark_layer{
+    width: 3072px;
+    height: 1920px;
+    position: fixed;
+    background-color: black;
+    opacity: 0.9;
+}

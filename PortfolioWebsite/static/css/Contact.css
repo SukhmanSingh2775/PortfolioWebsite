@@ -1,4 +1,25 @@
-#container{
-        text-align: center;
-        background-color: blue;
+#dark_layer{
+    width: 3072px;
+    height: 1920px;
+    position: fixed;
+    background-color: black;
+    opacity: 0.9;
+}
+
+#ContactInfo{
+    position: fixed;
+    top: 45%;
+    left: 45%;
+    margin-top: -150px;
+    margin-left: -150px;
+    color: white;
+    font-size: 40px;
+}
+
+a {
+  color: gray;
+}
+
+a:hover{
+    color: red;
 }

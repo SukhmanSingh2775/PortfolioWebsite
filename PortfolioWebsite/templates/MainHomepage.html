@@ -1,5 +1,22 @@
 {% extends 'basic.html' %}
 
-{%block title%}Sukhmanpreet Singh{%endblock%}
+{%block title%}Homepage{%endblock%}
 
-{%block body%} Main Homepage {%endblock%}
+{%block head%}
+<link rel="stylesheet" href="/static/css/MainHomepage.css?{% now "U" %}" type="text/css" />
+{%endblock%}
+
+{%block body%}
+
+
+<div id="dark_layer"></div>
+
+<div id="main-container">
+
+    <h1 id="'h1tag">
+        Software developer from California
+    </h1>
+
+</div>
+
+{%endblock%}

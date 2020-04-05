@@ -1,0 +1,14 @@
+#dark_layer{
+    width: 3072px;
+    height: 1920px;
+    position: fixed;
+    background-color: black;
+    opacity: 0.9;
+}
+
+#h1tag{
+    color: white;
+    font-size: 100px;
+}
+
+

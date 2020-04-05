@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf8d9a03-dae6-47ac-af7e-f50052dc965e" name="Default Changelist" comment="" />
+    <list default="true" id="bf8d9a03-dae6-47ac-af7e-f50052dc965e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PortfolioWebsite/static/css/About.css" beforeDir="false" afterPath="$PROJECT_DIR$/PortfolioWebsite/static/css/About.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PortfolioWebsite/static/css/Contact.css" beforeDir="false" afterPath="$PROJECT_DIR$/PortfolioWebsite/static/css/Contact.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PortfolioWebsite/static/css/MainHomepage.css" beforeDir="false" afterPath="$PROJECT_DIR$/PortfolioWebsite/static/css/MainHomepage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PortfolioWebsite/static/css/Portfolio.css" beforeDir="false" afterPath="$PROJECT_DIR$/PortfolioWebsite/static/css/Portfolio.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PortfolioWebsite/templates/AboutPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/PortfolioWebsite/templates/AboutPage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PortfolioWebsite/templates/ContactPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/PortfolioWebsite/templates/ContactPage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PortfolioWebsite/templates/MainHomepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/PortfolioWebsite/templates/MainHomepage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PortfolioWebsite/templates/PortfolioPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/PortfolioWebsite/templates/PortfolioPage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PortfolioWebsite/templates/basic.html" beforeDir="false" afterPath="$PROJECT_DIR$/PortfolioWebsite/templates/basic.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +27,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1a5Mfrn3YZxwcVXdoF2zzUvoQ76" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,7 +40,9 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -44,5 +62,9 @@
       <screen x="0" y="0" width="2048" height="1280" />
     </state>
     <state x="740" y="450" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2048.1280@0.0.2048.1280" timestamp="1586022202369" />
+    <state x="525" y="279" key="SettingsEditor" timestamp="1586112909336">
+      <screen x="0" y="0" width="2048" height="1280" />
+    </state>
+    <state x="525" y="279" key="SettingsEditor/0.0.2048.1280@0.0.2048.1280" timestamp="1586112909336" />
   </component>
 </project>
