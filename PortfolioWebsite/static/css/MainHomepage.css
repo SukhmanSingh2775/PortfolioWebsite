@@ -3,12 +3,76 @@
     height: 1920px;
     position: fixed;
     background-color: black;
-    opacity: 0.9;
+    opacity: 0.8;
 }
 
-#h1tag{
+#h2Tag{
+
+    position: fixed;
+    top: 90%;
+    left: 40%;
+    margin-top: -150px;
+    margin-left: -150px;
     color: white;
-    font-size: 100px;
+    font-size: 60px;
 }
+
+#h1Tag{
+
+    position: fixed;
+    top: 20%;
+    left: 45%;
+    margin-top: -150px;
+    margin-left: -150px;
+    color: white;
+    font-size: 60px;
+}
+#computerImage{
+    width: 3072px;
+    height: 1920px;
+    position: fixed;
+    background-image: url("https://miro.medium.com/max/14720/1*-qVaxJYX_2CjjVXF7_r-Gg.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    opacity: 0.4;
+
+}
+
+
+#instaLogo{
+    width: 50px;
+    height: 50px;
+    position: fixed;
+    top: 96%;
+    left: 0%;
+    opacity: 1;
+    background-image: url("https://www.stickpng.com/assets/images/580b57fcd9996e24bc43c521.png");
+
+}
+
+#twitterLogo{
+    width: 63px;
+    height: 63px;
+    position: fixed;
+    top: 95.3%;
+    left: 3%;
+    opacity: 1;
+    background-image: url("https://www.stickpng.com/assets/images/580b57fcd9996e24bc43c521.png");
+
+}
+
+#githubLogo{
+    width: 47px;
+    height: 47px;
+    position: fixed;
+    top: 95.8%;
+    left: 6.7%;
+    opacity: 1;
+    background-image: url("https://www.stickpng.com/assets/images/5847f98fcef1014c0b5e48c0.png");
+
+}
+
+
 
 
