@@ -5,3 +5,59 @@
     background-color: black;
     opacity: 0.9;
 }
+#h1Tag{
+    position: fixed;
+    top: 20%;
+    left: 45%;
+    margin-top: -150px;
+    margin-left: -150px;
+    color: white;
+    font-size: 60px;
+}
+
+#listTag{
+    position: fixed;
+    top: 40%;
+    left: 10%;
+
+
+    color: white;
+    font-size: 30px;
+}
+
+
+#backgroundImage{
+    width: 3072px;
+    height: 1920px;
+    position: fixed;
+    background-image: url("https://inteng-storage.s3.amazonaws.com/img/iea/nR6bV9jp6o/sizes/learntocodebundle_resize_md.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    opacity: 0.4;
+
+}
+
+
+#instaLogo{
+    width: 50px;
+    height: 50px;
+    position: fixed;
+    top: 96%;
+    left: 0%;
+    opacity: 1;
+    background-image: url("https://www.stickpng.com/assets/images/580b57fcd9996e24bc43c521.png");
+
+}
+
+#twitterLogo{
+    width: 63px;
+    height: 63px;
+    position: fixed;
+    top: 95.3%;
+    left: 3%;
+    opacity: 1;
+    background-image: url("https://www.stickpng.com/assets/images/580b57fcd9996e24bc43c521.png");
+
+}
+

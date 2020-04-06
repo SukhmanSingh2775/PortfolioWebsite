@@ -38,19 +38,6 @@
 
 }
 
-#githubLogo{
-    width: 47px;
-    height: 47px;
-    position: fixed;
-    top: 53.4%;
-    left: 34.8%;
-    opacity: 1;
-    border-color: white;
-    border-bottom-style: dot-dash;
-    border-width: 2px;
-    background-image: url("https://www.stickpng.com/assets/images/5847f98fcef1014c0b5e48c0.png");
-
-}
 
 a {
   color: gray;

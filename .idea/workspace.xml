@@ -3,11 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="bf8d9a03-dae6-47ac-af7e-f50052dc965e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PortfolioWebsite/static/css/About.css" beforeDir="false" afterPath="$PROJECT_DIR$/PortfolioWebsite/static/css/About.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PortfolioWebsite/static/css/Contact.css" beforeDir="false" afterPath="$PROJECT_DIR$/PortfolioWebsite/static/css/Contact.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PortfolioWebsite/static/css/MainHomepage.css" beforeDir="false" afterPath="$PROJECT_DIR$/PortfolioWebsite/static/css/MainHomepage.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PortfolioWebsite/templates/AboutPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/PortfolioWebsite/templates/AboutPage.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PortfolioWebsite/templates/ContactPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/PortfolioWebsite/templates/ContactPage.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PortfolioWebsite/templates/MainHomepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/PortfolioWebsite/templates/MainHomepage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PortfolioWebsite/templates/basic.html" beforeDir="false" afterPath="$PROJECT_DIR$/PortfolioWebsite/templates/basic.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PortfolioWebsite/templates/PortfolioPage.html" beforeDir="false" afterPath="$PROJECT_DIR$/PortfolioWebsite/templates/PortfolioPage.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
